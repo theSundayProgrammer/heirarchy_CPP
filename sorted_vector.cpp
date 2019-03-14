@@ -1,7 +1,7 @@
 #include <vector>
 #include <string>
 #include <algorithm>
-#include "../CPP/heirarchy.hpp"
+#include "heirarchy.hpp"
 
 #include <iostream>
 
